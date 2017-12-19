@@ -20,13 +20,13 @@
     transform: translate(-50%, -50%);
   }
   .loading h1 {
-    color: #71b6b3;
+    color: #96b671;
     font-weight: 600;
     text-transform: uppercase;
   }
   .loading p {
     font-weight: 400;
-    color: #a0d5cc;
+    color: #b7a0d5;
     letter-spacing: 2px;
     margin-bottom: 10vh;
   }
@@ -38,7 +38,7 @@
     width: 7px;
     display: inline-block;
     margin-right: 5px;
-    background-color: #50997d;
+    background-color: #995075;
     vertical-align: middle;
   }
   .loading ul li:first-child {
