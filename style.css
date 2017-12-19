@@ -7,7 +7,7 @@
     height: 100%;
   }
   body {
-    background-color: #cdf6fd;
+    background-color: #cdfded;
     font-family: 'Open Sans', sans-serif;
     padding: 0;
     margin: 0;
@@ -20,13 +20,13 @@
     transform: translate(-50%, -50%);
   }
   .loading h1 {
-    color: #7191b6;
+    color: #71b6b3;
     font-weight: 600;
     text-transform: uppercase;
   }
   .loading p {
     font-weight: 400;
-    color: #a0a5d5;
+    color: #a0d5cc;
     letter-spacing: 2px;
     margin-bottom: 10vh;
   }
@@ -38,7 +38,7 @@
     width: 7px;
     display: inline-block;
     margin-right: 5px;
-    background-color: #505d99;
+    background-color: #50997d;
     vertical-align: middle;
   }
   .loading ul li:first-child {
